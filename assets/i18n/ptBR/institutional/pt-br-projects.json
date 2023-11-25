@@ -1,0 +1,23 @@
+[
+  {
+    "projectSiteOwner": "rafadeveloper",
+    "projectTecnology": "HTML &middot; CSS &middot; JS",
+    "projectDevelopementDate": "Nov 2022",
+    "projectDescription": "Meu primeiro site.",
+    "projectLink": "https://rfariadev.github.io/FirstSite/"
+  },
+  {
+    "projectSiteOwner": "rafadeveloper",
+    "projectTecnology": "Angular",
+    "projectDevelopementDate": "Jul 2023",
+    "projectDescription": "Desenvolvido utilizando a tecnologia Angular.",
+    "projectLink": "https://rafadeveloper.com.br/"
+  },
+  {
+    "projectSiteOwner": "cidalves",
+    "projectTecnology": "Angular",
+    "projectDevelopementDate": "Em breve",
+    "projectDescription": "Site em construção",
+    "projectLink": "https://github.com/rfariadev"
+  }
+]

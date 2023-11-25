@@ -1,0 +1,21 @@
+[
+  {
+    "resumeEducationDate": "2019 - 2020",
+    "resumeEducationTecnologyName": "ASP.NET Core e REST WebAPI",
+    "resumeEducationCompanyName": "Desenvolvedor.io",
+    "resumeEducationDescriptionItem1": "Conhecimento em ASP.NET Core, Controllers, Models, Views, Áreas e deploy da aplicação. Conhecimento em Injeção de Dependência e EntityFramework Core. Segurança com ASP.NET Identity e configurações avançadas. Tratamento de erros, log detalhado e uso de filtros."
+  },
+  {
+    "resumeEducationDate": "2016 - 2017",
+    "resumeEducationTecnologyName": "C# I, II, III",
+    "resumeEducationCompanyName": "Alura",
+    "resumeEducationDescriptionItem1": "Base sólida em C#, Sintaxe e estruturação de programas, Manipulação avançada de dados, Conceitos de Programação Orientada a Objetos (POO), Habilidades com arquivos e bancos de dados"
+  },
+  {
+    "resumeEducationDate": "2009 - 2011",
+    "resumeEducationTecnologyName": "LSA . LNS",
+    "resumeEducationCompanyName": "4Linux",
+    "resumeEducationDescriptionItem1": "Linux System Administrator (LSA. Habilidades em gerenciamento de usuários, grupos e permissões. Conhecimento em pacotes, administração de redes e tarefas agendadas. Especializado em logs do sistema e em escrever Shellscripts. Altamente qualificado em administração de sistemas Linux.",
+    "resumeEducationDescriptionItem2": "Linux Network Servers (LNS) Especialista em infraestrutura e administração de sistemas Linux. Habilidades em instalação, hardening, serviços de rede, RAID, LVM e segurança (PAM). Competente em FTP, NFS, AIDE, Samba, BIND, Apache, Postfix, proxy Squid e VPNs com OpenVPN. Administração de diretório LDAP e configuração de Firewall. Especialista altamente qualificado em redes Linux."
+  }
+]

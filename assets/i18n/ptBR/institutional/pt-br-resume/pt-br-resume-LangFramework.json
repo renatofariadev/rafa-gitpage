@@ -1,0 +1,8 @@
+[
+  { "languageFramework": "HTML" },
+  { "languageFramework": "CSS" },
+  { "languageFramework": "JavaScript" },
+  { "languageFramework": "Angular" },
+  { "languageFramework": "Node.js" },
+  { "languageFramework": "Microsoft C#" }
+]
